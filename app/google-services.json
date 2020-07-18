@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706353798226",
+    "firebase_url": "https://saloon-65190.firebaseio.com",
+    "project_id": "saloon-65190",
+    "storage_bucket": "saloon-65190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706353798226:android:264c41ba40f07e0fb2538b",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706353798226-onif1mocsgifob19l5hgkauf4e1f8uog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMqtZLEcZe_TsHq2IfrSvjC_7ARdjF0Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706353798226-onif1mocsgifob19l5hgkauf4e1f8uog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

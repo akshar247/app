@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title_shop">Home</string>
+    <string name="title_gifts">Cart</string>
+    <string name="title_cart">Gifts</string>
+    <string name="title_profile">Profile</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="add">add</string>
+    <string name="reset">reset</string>
+    <string name="servicesingle">Single Services</string>
+    <string name="exit">exit</string>
+    <string name="search">Search</string>
+    <string name="action_record">Record Video</string>
+    <string name="home">Home</string>
+    <string name="Categories">Categories</string>
+    <string name="Gift">Offer and Package</string>
+    <string name="gift1">Gift</string>
+    <string name="service">Single Services</string>
+    <string name="contact">Contact Us</string>
+    <string name="setting">Setting</string>
+    <string name="Myaccount">My Account</string>
+
+</resources>

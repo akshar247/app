@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+
+    app:startDestination="@id/home"
+    tools:ignore="UnusedNavigation">
+
+    <fragment
+        android:id="@+id/home"
+        android:name="com.example.app.Fragment.HomeFragment"
+        android:label="@string/home" />
+    <fragment
+        android:id="@+id/cart"
+        android:name="com.example.app.Fragment.CartFragment"
+        android:label="@string/Categories" />
+    <fragment
+        android:id="@+id/gift"
+        android:name="com.example.app.Fragment.GiftsFragment"
+        android:label="@string/gift1"/>
+    <fragment
+        android:id="@+id/profile"
+        android:name="com.example.app.Fragment.ProfileFragment"
+        android:label="@string/title_profile" />
+    <fragment
+        android:id="@+id/contact"
+        android:name="com.example.app.Fragment.ContactFragment"
+        android:label="@string/contact" />
+    <fragment
+        android:id="@+id/single_Services"
+        android:name="com.example.app.Fragment.SserviceFragment"
+        android:label="@string/servicesingle" />
+    <fragment
+        android:id="@+id/setting"
+        android:name="com.example.app.Fragment.SettingFragment"
+        android:label="@string/setting" />
+</navigation>
