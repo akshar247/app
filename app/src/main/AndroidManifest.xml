@@ -47,7 +47,6 @@
         <activity
             android:name=".Homepage"
             android:theme="@style/AppTheme.Homepage">
-
         </activity>
         <activity android:name=".Register"></activity>
         <activity android:name=".Login"></activity>
